@@ -1,0 +1,39 @@
+# Gradle files: 
+.gradle
+/build/
+
+# Idea Gradle files:
+.idea/gradle.xml
+.idea/libraries
+
+# Ignore Gradle GUI config files:
+gradle-app.setting
+# Avoid ignoring Gradle wrapper jar files:
+!gradle-wrapper.jar
+
+# Cache of project files:
+.gradletasknamecache
+*.class
+
+# Package files:
+*.jar
+*.war
+*.ear
+
+# User-specific files:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Sensitive or high-churn files:
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+# Apple files:
+*.DS_Store
